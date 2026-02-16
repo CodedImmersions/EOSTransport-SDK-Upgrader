@@ -1,7 +1,9 @@
-# EOSTransport-SDK-Upgrader
+# EOSTransport SDK Upgrader
 Tool to easily upgrade EOSTransport to the latest EOS version.
 
 ## Usage
+Before running, make sure you have the .NET 10 runtime installed. If you don't have it, you can download it from [here](https://dotnet.microsoft.com/download/dotnet/10.0).
+
 1. Download the latest release from the [releases page](https://github.com/CodedImmersions/EOSTransport-SDK-Upgrader/releases).
 2. Run the exe file.
 3. For the first prompt, put in `<Your Project Path>/Assets/Mirror/Transports/EOSTransport/EOSSDK`.
